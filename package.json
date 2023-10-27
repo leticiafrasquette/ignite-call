@@ -11,7 +11,10 @@
   "dependencies": {
     "@hookform/resolvers": "^3.3.1",
     "@ignite-ui/react": "^2.2.4",
+    "@prisma/client": "^5.5.2",
+    "axios": "^1.6.0",
     "next": "latest",
+    "nookies": "^2.5.2",
     "phosphor-react": "^1.4.1",
     "react": "latest",
     "react-dom": "latest",
@@ -20,11 +23,13 @@
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.1.0",
+    "@types/cookie": "^0.5.3",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
+    "prisma": "^5.5.2",
     "typescript": "latest"
   }
 }
